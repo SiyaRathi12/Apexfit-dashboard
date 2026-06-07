@@ -3,8 +3,7 @@
 ## 🚀 Live Demo
 
 **🔗 Live Application:**
-https://yourgithubusername.github.io/apexfit
-
+(https://siyarathi12.github.io/Apexfit-dashboard/)
 ---
 
 ## ✨ Core Features
